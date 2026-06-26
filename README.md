@@ -22,7 +22,7 @@ To simulate a real company, I created a cross-departmental structure with dedica
 
 * **Screenshot Reference:**
 ![Agents and Departments Setup](screenshots/02-agents-departments-setup.png)
-*(Shows the organized list of departments, active agents, and their respective management roles).*
+*(Shows the organized list of departments, active agents, and their management roles).*
 
 ### 3. SLA (Service Level Agreement) Policies
 To ensure IT support tickets are resolved on time, I configured 4 distinct Service Level Agreements (SLA) based on urgency:
